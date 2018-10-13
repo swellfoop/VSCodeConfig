@@ -12,4 +12,6 @@ Please give the original creator some love at [this link](https://github.com/ope
 
 If you want to have your VSCode look *exactly* like mine then feel free to clone or download this repository and copy-paste the settings.json into your VSCode settings file (be sure not to overwrite any of your own settings that you may want to keep!), and install the .ttf files for that slick monospace italic goodness.
 
+Then be sure to install **Oceanic Next (dimmed bg)** from the VS Code store as a free colour scheme.
+
 The fonts are open source *as far as I know* but if I am wrong and you know that I am, please let me know and I will do what I have to to honour the creator(s).
